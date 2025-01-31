@@ -1,1 +1,5 @@
 .env
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+wiki_data.txt
